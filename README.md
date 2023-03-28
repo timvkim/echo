@@ -9,4 +9,4 @@ What service do?
 To run a server execute a command: <b>make run</b>
 
 
-To check a handler method follow the link: <href>http://localhost:8080/</href>
+To check a handler method follow the link: <href>http://localhost:8080/status</href>
